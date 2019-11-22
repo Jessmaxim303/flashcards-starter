@@ -8,9 +8,11 @@ This program will simulate a set of flash cards through the command line. A user
 
 ### Setup
 
-In your terminal, git clone your forked repository
-run npm install
-Once the install is complete, enter node index.js in the console to start the game
+In your terminal, git clone your forked repository.
+
+run npm install.
+
+Once the install is complete, enter node index.js in the console to start the game.
 
 ### 1909 FE 
 Jesse Maxim
