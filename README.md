@@ -4,7 +4,7 @@ This program will simulate a set of flash cards through the command line. A user
 
 ## Example Gif
 
-![](flashgame.gif)
+![gif](https://media.giphy.com/media/llg2nefB4SVluNFrBV/giphy.gif)
 
 ### Setup
 
