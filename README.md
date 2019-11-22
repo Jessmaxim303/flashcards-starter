@@ -1,6 +1,6 @@
 ## FlashCards Starter Kit
 ### Overview
-This program will simulate a set of flash cards through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
+This program will run a flash card game through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
 
 ## Example Gif
 
